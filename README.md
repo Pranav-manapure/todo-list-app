@@ -47,44 +47,51 @@ This is a full-stack Todo List application built with **Spring Boot** (backend) 
 1. Clone the repository.
    ```bash
    git clone https://github.com/your-username/todo-list-app.git
+2. Navigate to the backend directory.
+   ```bash
+   cd todo-list-app/backend
+3. Configure the application properties file .
+   (src/main/resources/application.properties) for your database.
+5. Build and run the application.
+   ```bash
+   mvn spring-boot:run
 
-Navigate to the backend directory.
-bash
-Copy code
-cd todo-list-app/backend
-Configure the application properties file (src/main/resources/application.properties) for your database.
-Build and run the application.
-bash
-Copy code
-mvn spring-boot:run
-Frontend Setup
-Navigate to the frontend directory.
-bash
-Copy code
-cd todo-list-app/frontend
-Install dependencies.
-bash
-Copy code
-npm install
-Start the React development server.
-bash
-Copy code
-npm start
-API Endpoints
-GET /api/todos/findAll - Fetch all todos.
-POST /api/todos - Add a new todo.
-PUT /api/todos/{id}/complete - Mark a todo as complete.
-DELETE /api/todos/{id} - Delete a todo.
-Screenshots
+### Frontend Setup
+1. Navigate to the frontend directory.
+   ```bash
+   cd todo-list-app/frontend
+2. Install dependencies.
+   ```bash
+   npm install
+3. Start the React development server.
+   ```bash
+   npm start
 
-Contributions
-Contributions are welcome! Please open an issue or submit a pull request.
+---
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+### API Endpoints
+- **GET /api/todos/findAll** - Fetch all todos.
+- **POST /api/todos** - Add a new todo.
+- **PUT /api/todos/{id}/complete** - Mark a todo as complete.
+- **DELETE /api/todos/{id}** - Delete a todo.
 
-Author
-Pranav Sanjay Manapure
+---
 
-Email: manapurepranav03@gmail.com
-LinkedIn: Pranav's Profile
+### Screenshots
+
+---
+
+### Contributions   
+   Contributions are welcome! Please open an issue or submit a pull request.
+
+---
+
+### License
+   This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+### Author
+   Pranav Sanjay Manapure
+   - **Email:** manapurepranav03@gmail.com
+   - **LinkedIn:** www.linkedin.com/in/pranav-manapure
