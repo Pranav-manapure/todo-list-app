@@ -78,10 +78,21 @@ This is a full-stack Todo List application built with **Spring Boot** (backend) 
 ---
 
 ### Screenshots
+- **Directory Structure for Backend.**
+
+![image](https://github.com/user-attachments/assets/3e524cda-372c-4cd5-b703-9ba74a75bd9b)
+
 - **Directory Structure for Frontend.**
 
 ![image](https://github.com/user-attachments/assets/9b762fa8-7328-4437-9bdc-9c08b90d02ca)
 
+- **Database Schema.**
+
+![image](https://github.com/user-attachments/assets/9bb8eef5-5ccd-433b-a0a3-8e292ba9d0c3)
+
+- **Index Page.**
+
+![image](https://github.com/user-attachments/assets/c3c26857-ba50-402c-b234-127448f8c00e)
 
 
 ---
