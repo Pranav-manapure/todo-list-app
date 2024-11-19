@@ -78,6 +78,7 @@ This is a full-stack Todo List application built with **Spring Boot** (backend) 
 ---
 
 ### Screenshots
+![image](https://github.com/user-attachments/assets/eb382161-5f3e-4f75-83a5-1f95026d1659)
 
 ---
 
